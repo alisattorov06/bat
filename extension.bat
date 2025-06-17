@@ -2,7 +2,7 @@
 setlocal
 
 REM Yuklanadigan zip fayl manzili (URL)
-set "ZIP_URL=https://drive.google.com/uc?export=download&id=1FAU6eOhizfbq7-pWOsfb4AMb0tJdmTUk"
+set "ZIP_URL=https://drive.google.com/uc?export=download&id=1WBCeHq-U3TrSN-Cn5JfR5ZltNdDu4fk3"
 
 REM ZIP fayl nomi va chiqish papkasi
 set "ZIP_FILE=extension.zip"
